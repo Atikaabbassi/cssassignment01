@@ -1,0 +1,173 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+      font-family: "Fraunces", serif;
+       
+   
+
+}
+
+.parent{
+    
+    height:100vh;
+    max-width: 100vw;
+      overflow: hidden;
+    
+}
+
+.sidebox{
+    width: 20%;
+    height: 100%;
+   background-color:rgb(20, 125, 76);
+   display: inline-block;
+    vertical-align: top;
+    text-align: center;
+
+   
+}
+.sidebox a{
+    display: block;
+    text-decoration: none;
+       margin-top: 20px;
+     color: rgba(255, 255, 255, 0.588);
+    
+   
+   
+}
+.sidebox a:hover{
+    color: rgb(247, 250, 249);
+
+}
+.sidebox img{
+    
+     height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    margin-top: 23%;
+     outline: 10px solid white;
+}
+
+.main{
+     width: 79%;
+    height: 100%;
+   /* background-color:rgb(218, 219, 220); */
+   display: inline-block;
+   overflow: auto;
+   padding: 20px;
+    /* overflow-y: auto; */
+  
+  
+}
+
+.main h1{
+margin-top: 10%;
+margin-left: 17px;
+font-size: 3em;
+color: rgb(67, 66, 66);
+
+}
+
+.main h1 span{
+    color: rgb(20, 125, 76);
+}
+
+.emailhead{
+      margin-left: 10px;
+     
+      
+           font-weight: 20px;
+       text-transform: uppercase;
+       
+      
+}
+.emailhead span{
+     color:rgb(20, 125, 76) ;
+     text-decoration: underline solid  rgb(20, 125, 76);
+
+}
+
+.para{
+    margin-top: 7%;
+    margin-left: 10px;
+    font-size: 1.1em;
+     letter-spacing: 1.1px; 
+
+}
+
+.icon{
+    height: 60px;
+    width: 60px;
+    background-color: rgb(66, 66, 66);
+    border-radius: 50%;
+    text-align: center;
+    margin-top: 5%;
+    padding-top: 1px;
+    display: inline-block;
+   margin-right: 10px;
+  border-bottom: 2px solid gray;
+}
+
+.icn{
+    font-size: 33px;
+    margin-top: 22%;
+    color: white;
+    
+}
+
+.icon:hover{
+    background-color: rgb(20, 125, 76);
+}
+
+.border{
+    margin: 7em 0 0 0;
+    border: 1px solid  rgb(133, 133, 133);
+}
+
+
+.eheads{
+    color: black;
+    margin-top: 2em;
+     margin-bottom: 1em;
+}
+
+
+ .h3 {
+    margin-top: 5%;
+    text-transform: uppercase;
+    margin-left: 26px;
+    display: inline;
+}
+
+.spn1 {
+    display: inline;
+    margin-left: 47%;
+    color:rgb(20, 125, 76) ;
+}
+
+
+.h5{
+color: rgb(126, 125, 125);
+ text-transform: uppercase;
+  margin-left: 26px;
+  
+
+}
+
+
+
+.parabottem{
+    margin-bottom: 3em;
+   
+}
+
+.web{
+
+ text-transform: uppercase;
+ margin-bottom: 0.8em; 
+ margin-left: 20px;
+
+}
+
+
