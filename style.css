@@ -76,9 +76,10 @@ color: rgb(67, 66, 66);
 .emailhead{
       margin-left: 10px;
      
-      
            font-weight: 20px;
        text-transform: uppercase;
+       color: gray;
+       padding: 10px 0 0 0 ;
        
       
 }
@@ -88,13 +89,15 @@ color: rgb(67, 66, 66);
 
 }
 
-.para{
-    margin-top: 7%;
-    margin-left: 10px;
-    font-size: 1.1em;
-     letter-spacing: 1.1px; 
 
+.para {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-size: 1em;
+     letter-spacing: 1.1px; 
+     margin-left: 20px;
 }
+
 
 .icon{
     height: 60px;
@@ -122,19 +125,20 @@ color: rgb(67, 66, 66);
 
 .border{
     margin: 7em 0 0 0;
-    border: 1px solid  rgb(133, 133, 133);
+   border: 0.8px solid  rgb(186, 186, 186);
 }
 
 
 .eheads{
     color: black;
-    margin-top: 2em;
-     margin-bottom: 1em;
+    margin-bottom: 1em;
+    text-transform: uppercase;
+    
 }
 
 
- .h3 {
-    margin-top: 5%;
+ .h3{
+  
     text-transform: uppercase;
     margin-left: 26px;
     display: inline;
@@ -162,12 +166,147 @@ color: rgb(126, 125, 125);
    
 }
 
+
+
 .web{
 
  text-transform: uppercase;
- margin-bottom: 0.8em; 
+ margin-bottom: 0; 
  margin-left: 20px;
 
 }
 
+.margin{
+    margin-top: 10%;
+}
 
+.border02{
+       margin: 7em 0 0 0;
+    border: 0.8px solid  rgb(186, 186, 186);
+}
+
+.spn11{
+margin-left: 69%;
+color:rgb(20, 125, 76) ;
+}
+.spn2{
+margin-left: 30%;
+color:rgb(20, 125, 76) ;
+}
+.margintop{
+    margin-top: 10% !important;
+}
+.marginlef{
+    margin-left: 60px;
+}
+
+.border03{
+       margin: 7em 0 0 0;
+    border: 0.8px solid  rgb(186, 186, 186);
+}
+
+.top{
+    margin-top: 10px;
+}
+
+.imgbox{
+    display: block;
+    padding: 20px 10px 0px 30px;
+    margin-top: 18px;
+
+}
+
+.imgg{
+height: 80px;
+    width: 80px;
+   margin-bottom: 7px;
+    
+}
+
+.img{
+height: 80px;
+    width: 80px;
+    margin-top: 10px
+
+}
+
+.jsimg{
+    width: 60px;
+    height: 60px;
+    margin-bottom: 12px;
+    margin-left: 7px;
+}
+
+.angimg{
+   width: 60px;
+    height: 60px;
+    margin-bottom: 12px;
+    margin-left: 18px; 
+}
+
+.reactimg{
+     width: 60px;
+    height: 60px;
+    margin-bottom: 16px;
+    margin-left: 10px; 
+}
+
+.sassimg{
+      width: 60px;
+    height: 60px;
+    margin-bottom: 16px;
+    margin-left: 20px;
+}
+
+.wordimg{
+  width: 70px;
+    height: 70px;
+    margin-bottom: 16px;
+    margin-left: -8px;
+} 
+
+.gulpimg{
+width: 70px;
+    height: 70px;
+    margin-bottom: 20px;
+    margin-left: -10px;
+}
+
+.npmimg{
+    width: 70px;
+    height: 70px;
+    margin-bottom: 20px;
+    
+}
+
+.margintopp{
+    margin-top: 8%;
+}
+
+.unorderlist{
+    list-style: none;
+    margin-top: 10%;
+    color: grey;
+    margin-left: 20px;
+    text-transform: uppercase;
+}
+
+.border03{
+       margin: 7em 0 0 0;
+    border: 0.8px solid  rgb(186, 186, 186);
+}
+
+
+.border04{
+       margin: 7em 0 0 0;
+    border: 0.8px solid  rgb(186, 186, 186);
+}
+
+/* last awards section */
+
+ol{
+list-style: none;
+margin-left: 20px;
+color: gray;
+
+}
